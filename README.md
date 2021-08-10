@@ -1,29 +1,4 @@
-## Deep Learning and Bitcoins [[view code]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb) 
-![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/keras-v2.1.5-red.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg)
-
-**For the best viewing experience use [nbviewer](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb).**
-
-
-
-
-<p align="center">
-  <img src="images/btc-orange1.jpg", width=180>
-</p>                                                                  
-<p align="center">
-  <a href="#pre">Preamble </a> •
-  <a href="#intro">Goal </a> •
-  <a href="#imp">Importing libraries </a> •
-  <a href="#data">Data </a> •
-  <a href="#dw">  Data Wrangling </a> •
-  <a href="#tts">  Train/Test split </a> •
-  <a href="#lstm"> Building LSTM </a> •
-  <a href="#ttl"> Train and test loss </a> •
-  <a href="#ptv"> Predicted and True Values </a> •
-  <a href="#alt"> Altcoins </a> •
-  <a href="#bev"> Bird's eye view of the underlying mathematics </a> •
-  <a href="#td"> To Dos </a>
-</p>
-
+## Deep Learning and Bitcoins 
 <a id = 'pre'></a>
 ## Preamble
 
